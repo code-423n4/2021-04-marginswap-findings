@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "gpersoon",
+  "risk": "2",
+  "title": "Several function have no entry check",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/9"
+}
