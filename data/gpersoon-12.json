@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "gpersoon",
+  "risk": "1",
+  "title": "isStakePenalizer differtent than other functions in RoleAware.sol",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/12"
+}
