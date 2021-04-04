@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "gpersoon",
+  "risk": "1",
+  "title": "No function for TOKEN_ADMIN in RoleAware.sol",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/11"
+}
