@@ -1,0 +1,9 @@
+{
+  "contest": "3",
+  "handle": "jvaqa",
+  "address": "0xEcb66CC9e366aF7351DbAA52Fa0b290200eC7532",
+  "risk": "3",
+  "title": "The First User To Borrow a Particular Token Can Drain Funds In MarginSwap by Making An Undercollateralized Borrow Using Flash Loans",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/66"
+}
