@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "@cmichelio",
+  "risk": "3",
+  "title": "Re-entrancy bug in `MarginRouter.crossSwapTokensForExactTokens` allows inflating balance",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/19"
+}
