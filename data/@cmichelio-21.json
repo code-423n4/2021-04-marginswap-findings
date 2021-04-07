@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "@cmichelio",
+  "risk": "3",
+  "title": "Price feed can be manipulated",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/21"
+}
