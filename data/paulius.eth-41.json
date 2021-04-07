@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "paulius.eth",
+  "risk": "1",
+  "title": "setLeveragePercent should check that new _leveragePercent >= 100",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/41"
+}
