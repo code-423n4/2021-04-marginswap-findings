@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "@cmichelio",
+  "risk": "3",
+  "title": "`account.holdsToken` is never set",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/25"
+}
