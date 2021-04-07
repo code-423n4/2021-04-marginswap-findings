@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "paulius.eth",
+  "risk": "3",
+  "title": "function buyBond charges msg.sender twice",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/38"
+}
