@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "@cmichelio",
+  "risk": "2",
+  "title": "Liquidations can be sandwich attacked",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/22"
+}
