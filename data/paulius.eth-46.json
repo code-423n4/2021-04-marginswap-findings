@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "paulius.eth",
+  "risk": "1",
+  "title": "[INFO] Variable is declared and initialized with different values",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/46"
+}
