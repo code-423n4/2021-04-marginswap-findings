@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "paulius.eth",
+  "risk": "1",
+  "title": "[Gas] same calculations are done twice",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/55"
+}
