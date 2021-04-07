@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "paulius.eth",
+  "risk": "1",
+  "title": "[INFO] liquidators may be a subject of front-running attacks",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/53"
+}
