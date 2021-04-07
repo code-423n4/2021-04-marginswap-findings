@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "s1m0",
+  "risk": "1",
+  "title": "An erroneous constructor's argument could block the withdrawReward",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/33"
+}
