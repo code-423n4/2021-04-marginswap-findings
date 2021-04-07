@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "s1m0",
+  "risk": "2",
+  "title": "Not emitting event for important state changes",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/61"
+}
