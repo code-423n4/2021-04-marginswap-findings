@@ -1,0 +1,8 @@
+{
+  "contest": "3",
+  "handle": "paulius.eth",
+  "risk": "1",
+  "title": "[Gas] Extract storage variable to a memory variable",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/marginswap-results/issues/59"
+}
