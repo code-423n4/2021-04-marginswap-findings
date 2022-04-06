@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "paulius.eth",
   "risk": "1",
   "title": "setLeveragePercent should check that new _leveragePercent >= 100",

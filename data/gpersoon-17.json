@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "gpersoon",
   "risk": "1",
   "title": "Naming convention for internal functions not used consistently",

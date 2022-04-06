@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "paulius.eth",
   "risk": "1",
   "title": "[Gas] unused variables",

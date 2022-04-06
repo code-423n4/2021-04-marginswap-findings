@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "@cmichelio",
   "risk": "2",
   "title": "Liquidations can be sandwich attacked",

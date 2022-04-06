@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "gpersoon",
   "risk": "2",
   "title": "Several function have no entry check",
