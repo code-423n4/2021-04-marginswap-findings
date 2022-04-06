@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "gpersoon",
   "risk": "1",
   "title": "No function for TOKEN_ADMIN in RoleAware.sol",

@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "@cmichelio",
   "risk": "3",
   "title": "Missing `fromToken != toToken` check in `MarginRouter.crossSwapExactTokensForTokens`/`MarginRouter.crossSwapTokensForExactTokens`",

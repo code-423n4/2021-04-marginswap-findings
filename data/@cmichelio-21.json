@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "@cmichelio",
   "risk": "3",
   "title": "Price feed can be manipulated",

@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "gpersoon",
   "risk": "3",
   "title": "lastUpdatedDay not initialized",

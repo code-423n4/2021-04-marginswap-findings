@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "paulius.eth",
   "risk": "2",
   "title": "Isolated margin contracts declare but do not set the value of liquidationThresholdPercent",

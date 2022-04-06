@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "s1m0",
   "risk": "1",
   "title": "Owner can initialize an already initialized tranche",

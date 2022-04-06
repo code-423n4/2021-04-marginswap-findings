@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "s1m0",
   "risk": "2",
   "title": "Not emitting event for important state changes",

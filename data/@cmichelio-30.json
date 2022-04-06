@@ -1,5 +1,5 @@
 {
-  "contest": "3",
+  "contest": 3,
   "handle": "@cmichelio",
   "risk": "1",
   "title": "`getReserves` does not check if tokens match",
